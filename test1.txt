@@ -2,3 +2,5 @@ Hello I am learning git hub
 
 learn git
 1st commit
+
+I live in Atlanta
